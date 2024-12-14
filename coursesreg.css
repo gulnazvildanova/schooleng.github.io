@@ -1,0 +1,73 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 870px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 53px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 35px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  background-image: none;
+  --radius: 50px;
+  height: 573px;
+  margin-top: 53px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-1 {
+  --radius: 10px;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-2 {
+  --radius: 10px;
+}
+
+.u-section-1 .u-input-3 {
+  --radius: 10px;
+}
+
+.u-section-1 .u-input-4 {
+  --radius: 10px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-top: 781px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: -738px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    margin-top: -725px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 300px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: -883px;
+  }
+}
